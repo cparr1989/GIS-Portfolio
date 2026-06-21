@@ -14,3 +14,7 @@ This project was created in QGIS using OpenStreetMap data to create a transporta
 ## Files
 
 Map files are included in this folder.
+## Files
+
+- [PDF Map](Casper_Transportation_Map.pdf)
+- [PNG Map](Casper_Transportation_Map.png.png)
