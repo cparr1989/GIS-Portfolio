@@ -13,7 +13,4 @@ Created using QGIS and OpenStreetMap data.
 - Casper_Transportation_Map.pdf
 ## Map Preview
 
-![Casper Transportation Map](Casper_Transportation_Map.png)
-## Map Preview
-
-![Casper Transportation Map](Casper_Transportation_Map.pdf)
+![Casper Transportation Map](./Casper_Transportation_Map.png)
